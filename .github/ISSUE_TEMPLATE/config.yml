@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Propose new feature
+    url: https://meta.decidim.org/processes/roadmap/f/122/
+    about: Visit Meta Decidim for feature requests
+  - name: Documentation
+    url: https://docs.decidim.org/
+    about: Visit the latest documentation available
+  - name: Features
+    url: https://decidim.org/features/
+    about: Visit the list of available features
+  - name: Try Decidim
+    url: https://try.decidim.org/
+    about: Try the newest stable version
+  - name: Try Nightly Decidim
+    url: https://try.decidim.org/
+    about: Try the nightly build
